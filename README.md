@@ -23,7 +23,7 @@ The User Access Management System is a web application that allows employees, ma
 Step 1: Clone the Repository
     Clone the project from your version control system (e.g., GitHub, GitLab).
 
-    git clone https://github.com/your-username/user-access-management.git
+    git clone https://github.com/shasidhar7/user-access-management.git
     cd user-access-management
 
 Step 2: Setup MySQL Database
