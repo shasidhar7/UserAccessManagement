@@ -23,8 +23,8 @@ The User Access Management System is a web application that allows employees, ma
 Step 1: Clone the Repository
     Clone the project from your version control system (e.g., GitHub, GitLab).
 
-    git clone https://github.com/shasidhar7/user-access-management.git
-    cd user-access-management
+    git clone https://github.com/shasidhar7/UserAccessManagement.git
+    cd UserAccessManagement
 
 Step 2: Setup MySQL Database
   Create Database:
@@ -81,7 +81,7 @@ Step 5: Deploy on Apache Tomcat
     ./bin/startup.bat (Windows)
   Access the application in your browser at:
 
-    http://localhost:8080/user-access-management
+    http://localhost:8080/UserAccessManagement
     
 --Running the Application--
     Sign-Up: Go to the sign-up page to create a new employee account.
